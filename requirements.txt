@@ -1,0 +1,5 @@
+click==7.1.1
+Flask==1.1.2
+itsdangerous==1.1.0
+Werkzeug==1.0.1
+"how I made this populate was the following command in the intepreter >> pip3 freeze --local >requirements.txt"
